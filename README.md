@@ -1,6 +1,6 @@
-Movie App
+# Movie App
 
-Movie-app description and listing with user auth.
+## Movie-app description and listing with user auth.
 
 
 # Features
